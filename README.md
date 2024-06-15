@@ -1,1 +1,3 @@
-# getx_example
+# getx_tutorial
+
+A new Flutter project.
